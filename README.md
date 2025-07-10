@@ -1,6 +1,6 @@
 # clackpad
 
-
+This is a 2x4 macropad with neopixel underlighting! It's supposed to help make me more productive(WIP) on my computer
 | Item Name | Description | Quantity | Cost |
 |-----------|-------------|----------|------|
 | PCB | Main Macropad PCB | 5 | Unknown |
