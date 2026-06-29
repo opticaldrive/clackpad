@@ -1,6 +1,7 @@
 # clackpad
 
-This is a 2x4 macropad with neopixel underlighting! It's supposed to help make me more productive(WIP) on my computer
+This is a 2x4 macropad with neopixel underlighting! It's supposed to help make me more productive(WIP) on my computer\
+Not pictured is a gesture sensor, which is present on the physical pcb(but the case doesn't have a hole for it sob) \
 | Item Name | Description | Quantity | Cost |
 |-----------|-------------|----------|------|
 | PCB | Main Macropad PCB | 5 | ~9USD |
